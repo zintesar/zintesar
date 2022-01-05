@@ -9,7 +9,7 @@
 Computer Science alumnus at [East West University](https://www.ewubd.edu). Newbie FullStack Developer with passion for videogames. Fascinated by everything that's CS related. 
 
 - 🔭 Bachelor's degree in **Computer Science** at EWU
-- 🌱 I’m currently learning **MERN StackK** and **Django** By Self
+- 🌱 I’m currently learning **MERN Stack** and **Django** By Self
 - 🌱 I’m currently learning **Data Science** and **Data Analysis**
 - ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
