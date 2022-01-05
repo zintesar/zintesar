@@ -21,7 +21,7 @@ Computer Science alumnus at [East West University](https://www.ewubd.edu). Newbi
 - LinkedIn: [linkedin.com/in/zintesar][LinkedIn]
 - Site: coming soon
 
-### 📚 Looking for my Resume? E-Mail me!
+<!--### 📚 Looking for my Resume? E-Mail me!-->
 
 ![Intesar Zaman's github stats](https://github-readme-stats.vercel.app/api?username=zintesar&show_icons=true&hide_border=true)
 
