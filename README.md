@@ -26,9 +26,6 @@ Computer Science alumnus at [East West University](https://www.ewubd.edu). Newbi
 ![Intesar Zaman's github stats](https://github-readme-stats.vercel.app/api?username=zintesar&show_icons=true&hide_border=true)
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zintesar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zintesar&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 [github]: https://github.com/zintesar
 [site]: https://zintesar.github.io
 [LinkedIn]: https://www.linkedin.com/in/zintesar
@@ -36,6 +33,12 @@ Computer Science alumnus at [East West University](https://www.ewubd.edu). Newbi
 
 instirition from Federico Dondi
 link: https://github.com/federico-dondi/federico-dondi
+
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zintesar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zintesar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 
 **zintesar/zintesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
