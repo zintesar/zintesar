@@ -27,7 +27,7 @@ Computer Science alumnus at [East West University](https://www.ewubd.edu). Newbi
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zintesar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zintesar&layout=compact&theme=buefy&hide_border=true" /></a> |
-
+| ------------- | ------------- |
 
 [github]: https://github.com/zintesar
 [site]: https://zintesar.github.io
