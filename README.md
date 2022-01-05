@@ -28,6 +28,7 @@ Computer Science alumnus at [East West University](https://www.ewubd.edu). Newbi
 
 [github]: https://github.com/zintesar
 [site]: https://zintesar.github.io
+[LinkedIn]: https://www.linkedin.com/in/zintesar
 <!--
 
 instirition from Federico Dondi
