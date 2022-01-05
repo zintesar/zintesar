@@ -26,7 +26,8 @@ Computer Science alumnus at [East West University](https://www.ewubd.edu). Newbi
 ![Intesar Zaman's github stats](https://github-readme-stats.vercel.app/api?username=zintesar&show_icons=true&hide_border=true)
 
 
-
+[github]: https://github.com/zintesar
+[site]: https://zintesar.github.io
 <!--
 
 instirition from Federico Dondi
