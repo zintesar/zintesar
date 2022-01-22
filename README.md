@@ -12,8 +12,6 @@ Computer Science alumnus at [East West University](https://www.ewubd.edu). Newbi
 - 🌱 I’m currently learning **MERN Stack** and **Django** By Self
 - 🌱 I’m currently learning **Data Science** and **Data Analysis**
 - ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
-- 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
-- 💬 I'm mostly active within the **Cyber Security**, **Vue.JS**, **Node.JS** and **Unity 3D** communities
 
 ### 📬 Get in Touch
 
