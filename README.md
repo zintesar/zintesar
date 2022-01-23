@@ -1,6 +1,6 @@
 ### Hello, I'm Intesar Zaman  👋
 
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
