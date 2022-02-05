@@ -29,7 +29,7 @@ Computer Science alumnus at [East West University](https://www.ewubd.edu). Newbi
 [LinkedIn]: https://www.linkedin.com/in/zintesar
 <!--
 
-instirition from Federico Dondi
+inspirition from Federico Dondi
 link: https://github.com/federico-dondi/federico-dondi
 
 
